@@ -1,0 +1,8 @@
+GUI\MotorPH.class
+GUI\WelcomeFrame$ThreeDLabel.class
+GUI\WelcomeFrame$ComputeOptionsFrame.class
+GUI\MonthlyPayrollReport.class
+GUI\CsvLoader.class
+GUI\SpecificEmployeeFrame.class
+GUI\WelcomeFrame.class
+GUI\Employee.class
