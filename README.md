@@ -7,4 +7,4 @@ Daniel Ceasar de Guzman |
 Jerell Lizada |
 Vanessa Rose Salonoy |
 Gabriel Josemaria Ledesma 
-# CP2-PAYROLLSYSTEM
+# Computer Programming 2 - PAYROLL SYSTEM
