@@ -7,4 +7,4 @@ Daniel Ceasar de Guzman |
 Jerell Lizada |
 Vanessa Rose Salonoy |
 Gabriel Josemaria Ledesma 
-# Computer Programming 2 - PAYROLL SYSTEM
+# Computer Programming 2 - Payroll System
